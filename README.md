@@ -92,6 +92,8 @@ Utilizes a global event bus for robust inter-service communication.
 
 The project is organized as follows:
 
+    ├── doc
+    │   └── rabbitmq-node.postman_collection.json # Postman collection 
     ├── api-gateway
     │   ├── src
     │   │   ├── config        # Configuration files
