@@ -152,3 +152,7 @@ The project is organized as follows:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+
+---
+
+Made with ❤️ by Sargas Inc.
